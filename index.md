@@ -22,7 +22,7 @@ Syntax highlighted code block
 - The 3rd lightbulb from the left in the frontmost row is very cool
 - The jokes 
 
-# _I feel like I missed a step somewhere because I can't actually view the output of all of this lmao. I can't find the formatting tools and they're almost certainly in plain sight, but I have too much other stuff due in a few hours._
+
 2. List
 
 **Bold** and _Italic_ and `Code` text
