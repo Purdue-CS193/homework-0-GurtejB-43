@@ -11,6 +11,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+2. List
+
+
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
 # Gurtej Bagga's First CS193 Homeworlk
 ## This should probably be at the top. I should add another one of these up there 
 ### My favourite things about CS193:
@@ -22,13 +30,6 @@ Syntax highlighted code block
 - The 3rd lightbulb from the left in the frontmost row is very cool
 - The jokes 
 
-
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
